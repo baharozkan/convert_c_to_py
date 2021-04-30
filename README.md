@@ -12,4 +12,4 @@ This should be done inside a virtual environment.
 Once that is installed, you can use the invoke tool mentioned in the article to build and run the tests. See the tasks.py file or run invoke --list to get more details.
 
 ----
-It's refered to https://github.com/realpython/materials/tree/master/python-bindings/overview_article?__s=9i9jbep5hmkjlobhzwd9
+It's refered to https://realpython.com/python-bindings-overview/
